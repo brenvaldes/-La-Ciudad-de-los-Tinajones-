@@ -731,104 +731,131 @@
                 14929,
                 14872,
                 14732
-            ],
-            "SierraDeCubitas": [
-                18320,
-                18196,
-                18042,
-                17927,
-                18009,
-                17942
-            ],
-            "Jimaguayu": [
-                20370,
-                20159,
-                20046,
-                19929,
-                19864,
-                19687
-            ],
-            "CarlosManuelDeCespedes": [
-                23722,
-                23495,
-                23302,
-                23208,
-                23010,
-                22842
-            ],
-            "Esmeralda": [
-                29967,
-                29723,
-                29616,
-                29574,
-                29437,
-                29203
-            ],
-            "Sibanicu": [
-                30470,
-                30107,
-                29693,
-                29412,
-                29197,
-                28930
-            ],
-            "Minas": [
-                37078,
-                36857,
-                36680,
-                36489,
-                36168,
-                35966
-            ],
-            "Guiamaro": [
-                37551,
-                37249,
-                36963,
-                36751,
-                36386,
-                36114
-            ],
-            "SantaCruzDelSur": [
-                43229,
-                42576,
-                41857,
-                41210,
-                40575,
-                39919
-            ],
-            "Vertientes": [
-                50967,
-                50599,
-                50001,
-                49646,
-                49176,
-                48821
-            ],
-            "Nuevitas": [
-                61473,
-                61195,
-                70785,
-                60415,
-                59935,
-                59483
-            ],
-            "Florida": [
-                71203,
-                70698,
-                70380,
-                70109,
-                69543,
-                69174
-            ],
-            "Camaguey": [
-                330253,
-                331139,
-                332427,
-                333790,
-                332684,
-                333251
             ]
-            },
+        },
+        "SierraDeCubitas":{
+            "residentes2017-2022": [
+            18320,
+            18196,
+            18042,
+            17927,
+            18009,
+            17942
+        ]
+        },
+        "Jimaguayu":{
+        "residentes2017-2022": [
+            20370,
+            20159,
+            20046,
+            19929,
+            19864,
+            19687
+        ]
+    },
+
+        "CarlosManuelDeCespedes":{
+        "residentes2017-2022": [
+            23722,
+            23495,
+            23302,
+            23208,
+            23010,
+            22842
+        ]
+    },
+        "Esmeralda": {
+        "residentes2017-2022": [
+            29967,
+            29723,
+            29616,
+            29574,
+            29437,
+            29203
+        ]
+    },
+        "Sibanicu":{
+            "residentes2017-2022": [
+            30470,
+            30107,
+            29693,
+            29412,
+            29197,
+            28930
+        ]
+    },
+        "Minas":{
+            "residentes2017-2022": [
+            37078,
+            36857,
+            36680,
+            36489,
+            36168,
+            35966
+        ]
+    },
+        "Guiamaro": {
+            "residentes2017-2022": [
+            37551,
+            37249,
+            36963,
+            36751,
+            36386,
+            36114
+        ]
+    },
+        "SantaCruzDelSur":{
+            "residentes2017-2022": [
+            43229,
+            42576,
+            41857,
+            41210,
+            40575,
+            39919
+        ]
+    },
+        "Vertientes":{
+            "residentes2017-2022": [
+            50967,
+            50599,
+            50001,
+            49646,
+            49176,
+            48821
+        ]
+    },
+        "Nuevitas":{
+            "residentes2017-2022": [
+            61473,
+            61195,
+            70785,
+            60415,
+            59935,
+            59483
+        ]
+    },
+        "Florida":{
+            "residentes2017-2022": [
+            71203,
+            70698,
+            70380,
+            70109,
+            69543,
+            69174
+        ]
+    },
+        "Camaguey":{
+            "residentes2017-2022": [
+            330253,
+            331139,
+            332427,
+            333790,
+            332684,
+            333251
+            ]
+        }
+        
+        },
 
         "SaldoMigratorioInternoMayabeque": { 
         "AnnosSM.Mayabeque":{
@@ -846,7 +873,8 @@
                 "Mayabeque2020": 920,
                 "Mayabeque2021": -179,
                 "Mayabeque2022": 578
-        },
+        }
+    },
         
         "TasaDeMmigracionInternaMayabeque": {
         "AnnosTMI.Mayabeque": {
@@ -865,7 +893,8 @@
                 "Mayabeque2021": -0.5,
                 "Mayabeque2022": 1.5
 
-        },
+        }
+    },
 
         "SaldoMigratorioExternoMayabeque": {
         "AnnosSME.Mayabeque": {
@@ -883,7 +912,8 @@
                 "Mayabeque2020": -114,
                 "Mayabeque2021": -10,
                 "Mayabeque2022":  68.0
-          },
+          }
+        },
 
         "TasaDeMigracionExternaMayabeque": {
         "AnnosTME.Mayabeque": {
@@ -901,9 +931,10 @@
                 "Mayabeque2020": -0.3,
                 "Mayabeque2021": 0.0,
                 "Mayabeque2022": 0.2
-            },
+            }
+        },
 
-        "SaldoMigratorioInternoMayabeque": {
+        "saldoMigratorioInternoMayabeque": {
         "AnnosSMI.LaHabana":{
 
                 "LaHabana2010": 12326,
@@ -920,7 +951,8 @@
                 "LaHabana2021": 14902,
                 "LaHabana2022": 18394
                
-            },
+            }
+        },
 
         "TasaDeMigracionInternaMayabeque": {
         "AnnosTMI.LaHabana": {
@@ -939,7 +971,8 @@
                 "LaHabana2021": 7.0,
                 "LaHabana2022": 8.6
                         
-            },
+            }
+        },
 
         "SaldoMigratorioExternoLaHabana":{ 
         "AnnosSME.LaHabana": {
@@ -958,7 +991,8 @@
                 "LaHabana2021": 302,
                 "LaHabana2022": 885
   
-            },
+            }
+        },
                     
         "TasaDeMigracionExternaLaHabana": {
         "AnnosTME.LaHabana":{
@@ -977,7 +1011,8 @@
                 "LaHabana2021": 0.1 ,
                 "LaHabana2022": 0.4
 
-            },
+            }
+        },
                     
         "SaldoMigratorioInternoCamaguey": {
         "AnnosSMI.Camaguey": {
@@ -997,7 +1032,8 @@
                 "Camaguey2022": -1505
         
             
-            },
+            }
+        },
 
         "TasaDeMigracionInterna":{
         "AnnosTMI.Camaguey":{
@@ -1016,11 +1052,11 @@
                 "Camaguey2021": -0.4,
                 "Camaguey2022": -1.4
             
-            },
+            }
+        },
                 
         "SaldoMigratorioExternoCamaguey":{
-        "AnnosSME.Camaguey":{
-
+            "AnnosSME.Camaguey":{
                 "Camaguey2010": 2302,              
                 "Camaguey2011": 2518,
                 "Camaguey2012": 3612,
@@ -1035,7 +1071,8 @@
                 "Camaguey2021": -45,
                 "Camaguey2022": -69
 
-            },
+            }
+        },
 
         "TasaDeMigracionExterna": {
         "AnnosTME.Camaguey": {
@@ -1054,8 +1091,9 @@
                 "Camaguey2021": -0.1,
                 "Camaguey2022": -0.1
         }
+        }
     }
-}
+
         
     
 
